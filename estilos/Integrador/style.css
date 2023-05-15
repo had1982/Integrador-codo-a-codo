@@ -1,0 +1,6 @@
+.textoChico {
+    font-size: .8rem;
+}
+.carousel-item img{
+    filter: brightness(50%)
+}
